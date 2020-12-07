@@ -1,0 +1,10 @@
+name: team31
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - numpy
+  - pandas
+  - statsmodels
+prefix: C:\Users\Tomer\anaconda3\envs\team31
+
