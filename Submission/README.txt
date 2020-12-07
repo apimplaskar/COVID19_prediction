@@ -9,15 +9,15 @@ Contents:
 
 - SubmissionPt2.ipynb is a Jupyter notebook for our model to generate submission for Part 2
 
-- Team31.yml environment file
+- environment.yml environment file
 
 - You can find the data that we used at the following link:
 https://drive.google.com/drive/folders/1AWeI2UbTu1fs6I3qkR0vztVvg-CwpHyu?usp=sharing
 
 Instructions:
 1. Loading environment: 
-conda env create -f team31.yml
-conda activate team31.yml
+conda env create -f environment.yml
+conda activate team31
 Packages needed are: pandas, numpy, statsmodels
   - To detach environment after: conda deactivate
 
