@@ -9,7 +9,7 @@ Contents:
 
 - SubmissionPt2.ipynb is a Jupyter notebook for our model to generate submission for Part 2
 
-- Team31.yml environment file
+- environment.yml environment file
 
 - You can find the data that we used at the following link:
 https://drive.google.com/drive/folders/1AWeI2UbTu1fs6I3qkR0vztVvg-CwpHyu?usp=sharing
