@@ -18,3 +18,9 @@ Packages needed are: pandas, numpy, statsmodels
 
 3. Can run the notebooks directly
 
+4. In order to generate the projected data files, you must uncomment the cell block that reads 
+  #submission.to_csv('Team31_1.csv', index = False, header = True) in SubmissionPt1
+  OR
+  #submission.to_csv('Team31_2.csv', index = False, header = True) in SubmissionPt2
+  - Note that the number following the underscore reflects the part of the project that the submission corresponds to. 
+
