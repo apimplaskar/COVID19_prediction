@@ -3,6 +3,8 @@ Team 31
 Shaili Mathur, Aditya Pimplaskar, Ryan Wakefield, Tomer Laufer
 
 Contents: 
+- Team31.csv is our projections for Part 2 (12/6 - 12/13)
+
 - SubmissionPt1.ipynb is a Jupyter notebook for our model to generate submission for Part 1
 
 - SubmissionPt2.ipynb is a Jupyter notebook for our model to generate submission for Part 2
