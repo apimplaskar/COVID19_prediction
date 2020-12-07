@@ -21,7 +21,7 @@ Packages needed are: pandas, numpy, statsmodels
 
 2. Download data from the link above and store it in the same directory as these Jupyter notebooks
 
-3. Can run the notebooks directly
+3. Can run all cells the notebooks directly
 
 4. In order to generate the projected data files, you must uncomment the cell block that reads 
   #submission.to_csv('Team31_1.csv', index = False, header = True) in SubmissionPt1
