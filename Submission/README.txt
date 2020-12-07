@@ -16,8 +16,8 @@ https://drive.google.com/drive/folders/1AWeI2UbTu1fs6I3qkR0vztVvg-CwpHyu?usp=sha
 
 Instructions:
 1. Loading environment: 
-conda env create -f team31.yml
-conda activate team31
+conda env create -f environment.yml
+conda activate Team31
 Packages needed are: pandas, numpy, statsmodels
   - To detach environment after: conda deactivate
 
